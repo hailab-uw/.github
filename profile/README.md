@@ -7,4 +7,4 @@ We develop novel nanofabricated electromagnetic sensors for minimally invasive r
 
 Our motivation behind using GitHub to share our lab's source code reflects our commitment to furthering science and engineering by releasing our data and models as open-source. Please check back here frequently for new information and code updates.
 
-© Ilhan Bok, 2022
+© Aviad Hai, 2023
